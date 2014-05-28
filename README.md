@@ -1,5 +1,5 @@
-ezpaarse-dataset-sample
-=======================
+ezpaarse-dataset-samples
+========================
 
 Samples of anonymized log files
 
