@@ -6,4 +6,4 @@ In this repository, you will find samples of anonymized log files for ezPAARSE t
   * medium-sample.lo.gz : a medium sample (116 190 lines of anonymized log lines from an ezproxy server => 10 022 ECs*)
   * big-sample.lo.gz : a big sample (363 194 lines of anonymized log lines from an ezproxy server => 29 872 ECs*)
   
- * with platforms update 04/2017
+with platforms update 04/2017
